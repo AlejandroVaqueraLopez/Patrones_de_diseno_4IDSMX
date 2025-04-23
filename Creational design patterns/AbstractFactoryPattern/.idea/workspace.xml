@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0bb730ba-6253-4d8d-bd22-2b2baf86b265" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../DecoratorPattern/DecoratorPattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DecoratorPattern/src/DecoratorBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DecoratorPattern/src/DecoratorWhatsapp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DecoratorPattern/src/INotification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DecoratorPattern/src/Notification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Structural design patterns/BrigdePattern/.idea/material_theme_project_new.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Structural design patterns/BrigdePattern/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Structural design patterns/BrigdePattern/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Structural design patterns/BrigdePattern/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Structural design patterns/BrigdePattern/BrigdePattern.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Structural design patterns/BrigdePattern/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Structural design patterns/BrigdePattern/src/OnlinePayment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Structural design patterns/BrigdePattern/src/Payment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Structural design patterns/TVAdapter/.idea/material_theme_project_new.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Structural design patterns/TVAdapter/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Structural design patterns/TVAdapter/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Structural design patterns/TVAdapter/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Structural design patterns/TVAdapter/TVAdapter.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Structural design patterns/TVAdapter/src/AdapterTV.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Structural design patterns/TVAdapter/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Structural design patterns/TVAdapter/src/TV.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Structural design patterns/TVAdapter/src/TV_new.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Structural design patterns/TVAdapter/src/TV_old.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2ueUgp15dV3gshfIFJMR1CFaY1q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/republic of game/Documents/projects/JAVA/Structural design patterns/6-TVAdapter",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\republic of game\Documents\projects\JAVA\Creational design patterns\AbstractFactoryPattern\src" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.25659.59" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.25659.59" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0bb730ba-6253-4d8d-bd22-2b2baf86b265" name="Changes" comment="" />
+      <created>1742608650035</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742608650035</updated>
+      <workItem from="1742608650967" duration="637000" />
+      <workItem from="1745380916704" duration="204000" />
+      <workItem from="1745381168510" duration="1297000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
